@@ -54,7 +54,7 @@ Make sure to adhere to the coding style and guidelines established in the projec
 
 ## Issues and Discussions
 
-If you want to report a bug, propose a new feature, or discuss the project, please use the [Issues] section. Be clear and detailed in your communication to facilitate effective discussion and resolution.
+If you want to report a bug, propose a new feature, or discuss the project, please use the Issues section. Be clear and detailed in your communication to facilitate effective discussion and resolution.
 
 ## License
 
