@@ -4,7 +4,7 @@ Welcome to MetricCoders Datasets repository! This repository houses a diverse co
 
 ## Overview
 
-- **Total Datasets:** 4500+
+- **Total Datasets:** 10,000+
 - **Types:** Classifiers and Regressors
 
 ## Getting Started
