@@ -1,6 +1,6 @@
 # Metric Coders Datasets
 
-Welcome to MetricCoders Datasets repository! This repository houses a diverse collection of over 4500 tiny machine learning datasets, meticulously curated to cater to both classification and regression tasks. These datasets cover a wide range of domains and are ideal for training and testing machine learning models in a variety of applications.
+Welcome to MetricCoders Datasets repository! This repository houses a diverse collection of over 10,000 tiny machine learning datasets, meticulously curated to cater to both classification and regression tasks. These datasets cover a wide range of domains and are ideal for training and testing machine learning models in a variety of applications.
 
 ## Overview
 
